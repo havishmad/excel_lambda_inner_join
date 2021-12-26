@@ -16,3 +16,6 @@ It is expected that it  will be rolled out to Microsoft 365 users eventually
 Use Cases:
 Marketing Analytics
 Financial Reconciliation
+
+YouTube:
+https://youtu.be/kzI26HR2T9I

@@ -1,13 +1,13 @@
 # excel_lambda_inner_join
-Use LAMBDA to perform an Inner Join in Excel
+Use LAMBDA to find Repeat Customers in Excel
 
 
-The Function is called =Inner_Join(col_first, col_second)
+The Function is called =Repeat_Customers(first_col, second_col)
 
 Go to Formulas > Name Manager to see the function.
 
-col_first is the first column
-col_second is the second column
+first_col is the first column
+second_col is the second column
 
 Please note:
 As of December 2021, LAMBDA is onty available to a portion of Excel Insiders
